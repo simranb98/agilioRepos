@@ -42,6 +42,7 @@ $RECYCLE.BIN/
 *.orig
 *.rej
 *.bak
+*.husky
 
 /sfdx-project.json
 /package-lock.json
